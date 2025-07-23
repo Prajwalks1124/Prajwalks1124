@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **prajwalshetty1124@gmail.com**
   
-<img width="850" height="2" alt="image" src="https://github.com/user-attachments/assets/2ef691cd-b80c-4675-94e2-363ea6595de8" />
+<img width="850" height="1" alt="image" src="https://github.com/user-attachments/assets/2ef691cd-b80c-4675-94e2-363ea6595de8" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,7 @@
 <a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
 </p>
 
-<img width="850" height="2" alt="image" src="https://github.com/user-attachments/assets/d8cae868-c744-49c7-8091-c14a6e8d8f71" />
+<img width="850" height="1" alt="image" src="https://github.com/user-attachments/assets/d8cae868-c744-49c7-8091-c14a6e8d8f71" />
 
 
 <h3 align="left"> 🛠️ Tools & Technologies:</h3>
