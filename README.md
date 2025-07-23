@@ -23,6 +23,9 @@
 <a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
 </p>
 
+<img width="747" height="2" alt="image" src="https://github.com/user-attachments/assets/d8cae868-c744-49c7-8091-c14a6e8d8f71" />
+
+
 <h3 align="left"> 🛠️ Tools & Technologies:</h3>
 
 <p align="left">
