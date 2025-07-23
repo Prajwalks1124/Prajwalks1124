@@ -53,9 +53,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalks1124&show_icons=true&locale=en&layout=compact" alt="prajwalks1124" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalks1124&show_icons=true&locale=en" alt="prajwalks1124" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalks1124&" alt="prajwalks1124" /></p>
-
